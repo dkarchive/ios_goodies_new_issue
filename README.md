@@ -9,7 +9,7 @@
 ```shell
 git clone https://github.com/dkhamsing/ios_goodies_new_issue.git
 cd ios_goodies_new_issue/
-bundle install
+rake install
 ```
 Create a `config.yml` file with a [GitHub access token](https://help.github.com/articles/creating-an-access-token-for-command-line-use/):
 
