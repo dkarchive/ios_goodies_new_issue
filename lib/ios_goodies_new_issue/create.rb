@@ -20,7 +20,7 @@ module IosGoodiesNewIssue
       commit_message = "Create #{name}"
       # yield commit_message
 
-      yield 'pushing changes ... '
+      yield 'committing changes ... '
 
       path  = "#{PATH}/#{name}"
       # yield path
