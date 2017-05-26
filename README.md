@@ -4,6 +4,8 @@
 
 [**iOS-Goodies**](http://ios-goodies.com/) is a newsletter crowdsourced on GitHub, `ios_goodies_new_issue` creates a new blank issue that is ready for [your contributions](https://github.com/iOS-Goodies/iOS-Goodies) after each week's publication.
 
+[![CircleCI](https://img.shields.io/circleci/project/github/dkhamsing/ios_goodies_new_issue.svg)]()
+
 ## Installation
 
 ```shell
